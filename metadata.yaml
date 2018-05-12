@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4056
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Giulio_Barrili
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32096#La-legge-Oppia---commedia-togata-in-tre-atti
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2010-04-22'
 gutenberg_type: Text
